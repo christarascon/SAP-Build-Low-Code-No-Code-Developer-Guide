@@ -12,3 +12,5 @@
 ### 3. Core Tools in SAP Build
    - **SAP AppGyver**: A tool for building applications with little to no code.
    - **SAP Fiori Elements**: A UI framework for developing apps with consistent user experiences.
+
+![SAP-Build-Low-Code-No-Code-Development](https://github.com/user-attachments/assets/5bab431b-faa3-48a3-bd69-dc5a6c8e88f1)
