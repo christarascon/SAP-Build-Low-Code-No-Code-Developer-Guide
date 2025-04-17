@@ -10,7 +10,7 @@ The C_LCNC_2406 SAP Build - Low-Code/No-Code Developer Guide provides a step-by-
 
 # Resources for SAP Build Certification
 
-1. [SAP Build Official Documentation](https://help.sap.com/viewer/product/SAP_BUILDER)
+1. [SAP Build Official Documentation](https://help.sap.com/docs/SAP_BUILD))
 2. [SAP Learning Hub](https://training.sap.com)
 3. [SAP Community](https://community.sap.com)
 4. [ERPPrep](https://www.erpprep.com/sap-business-technology-platform-btp/c-lcnc-2406-sap-build-low-code-no-code-developer)
